@@ -1,4 +1,12 @@
 {
-    "index": "index.mdx",
-    "about": "about.mdx"
+    "index": {
+      "src": "index.mdx",
+      "title": "Home",
+      "type": "page"
+    },
+    "about": {
+      "src": "about.mdx",
+      "title": "About",
+      "type": "page"
+    }
 }

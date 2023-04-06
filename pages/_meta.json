@@ -1,0 +1,16 @@
+{
+    "index": {
+      "src": "index.mdx",
+      "title": "Home",
+      "type": "page"
+    },
+    "about": {
+      "src": "about.mdx",
+      "title": "About",
+      "type": "page"
+    },
+    "blog": {
+      "src": "blog.mdx",
+      "title": "blog",
+      "type": "page"}
+}

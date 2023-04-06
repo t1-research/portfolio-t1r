@@ -11,6 +11,6 @@
     },
     "blog": {
       "src": "blog.mdx",
-      "title": "blog",
+      "title": "Blog",
       "type": "page"}
 }

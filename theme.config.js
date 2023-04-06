@@ -6,8 +6,7 @@ export default {
       <time>{YEAR}</time> © Brayden Downey
       <style jsx>{`
         a {
-          margin-left: 45%;
-          margin-right: 45%;
+          float: left;
         }
         @media screen and (max-width: 480px) {
           article {

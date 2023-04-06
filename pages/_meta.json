@@ -15,7 +15,7 @@
       "type": "page"
   },
   "contact": {
-     "src": "contact.mdx"
-     "title": "Contact"
+     "src": "contact.mdx",
+     "title": "Contact",
      "type": "page"}
 }

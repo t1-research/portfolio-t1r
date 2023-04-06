@@ -8,5 +8,10 @@
       "src": "about.mdx",
       "title": "About",
       "type": "page"
-    }
+    },
+    "blog": {
+      "src": "blog.mdx",
+      "title": "Blog",
+      "type": "page"
+  }
 }

@@ -1,8 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
 
-import {img} from 'pages/imgs' 
-import '../imgs'
-
 export default function Document() {
   const meta = {
     title: 'T1 Research',

@@ -3,6 +3,6 @@ module.exports = withNextra()
 
 module.exports = {
     images: {
-      formats: ['image/png','image/jpeg', 'image/jpg'],
+      formats: ['image/png','image/jpeg','image/jpg'],
     },
   }

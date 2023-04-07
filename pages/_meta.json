@@ -13,5 +13,9 @@
       "src": "blog.mdx",
       "title": "Blog",
       "type": "page"
-  }
+  },
+  "contact": {
+     "src": "contact.mdx",
+     "title": "Contact",
+     "type": "page"}
 }

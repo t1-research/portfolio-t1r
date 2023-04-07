@@ -1,6 +1,5 @@
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
-import image from 'next/image'
 
 import '../styles/main.css'
 

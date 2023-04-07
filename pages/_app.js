@@ -15,13 +15,6 @@ export default function Nextra({ Component, pageProps }) {
           crossOrigin="anonymous"
         />
       </Head>
-
-      <Img 
-      src="imgs/IMG_0780.jpeg"
-      alt="proPic" 
-      rel="proPic"
-      type="image"
-      />
       <Component {...pageProps} />
     </>
   )

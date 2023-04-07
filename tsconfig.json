@@ -1,0 +1,7 @@
+// addional.d.ts
+/// <reference types="next-images" />
+
+// tsconfig.json
+{
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "addional.d.ts"]
+}

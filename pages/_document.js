@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import proPic from "../imgs/proPic.jpeg";
 
 export default function Document() {
   const meta = {

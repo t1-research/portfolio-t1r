@@ -3,6 +3,6 @@ module.exports = withNextra()
 
 module.exports = {
     images: {
-      path: 'public/static/images/'
+      path: 'public/static/images/',
     },
   }

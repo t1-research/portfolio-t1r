@@ -13,7 +13,7 @@ export default {
             padding-top: 2rem;
             padding-bottom: 4rem;
           }
-        footer {
+        small {
             color: black;
         }
         }

@@ -13,8 +13,9 @@ export default {
             padding-top: 2rem;
             padding-bottom: 4rem;
           }
-        footer {}
-        color: black;
+        footer {
+            color: black;
+        }
         }
       `}</style>
     </small>

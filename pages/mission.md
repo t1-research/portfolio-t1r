@@ -15,20 +15,20 @@ up to 600 million barrels of oil.
 
 ---
 
-# What is Willow?
+## What is Willow?
 
 The Willow Project within itself is what scientists would call, *a carbon bomb.* however the media and other promotional agencies for the project
 wont tell you that.
 
 --
 
-# Why is Project willow bad?
+## Why is Project willow bad?
 
 
 
 ---
 
-# *Sources*
+### *Sources*
 
-*Wiki: Willow Project
+**Wiki: Willow Project**
 https://en.wikipedia.org/wiki/Willow_project

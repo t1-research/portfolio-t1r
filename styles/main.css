@@ -25,6 +25,7 @@ body {
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
   background-color: rgb(52, 52, 116);
+  color: black;
 }
 b,
 strong,
@@ -62,15 +63,5 @@ img.next-image {
 }
 
 .nav-line .nav-link {
-  color: #69778c;
-}
-
-p {
-    color: black;
-}
-ul{
-    color: black;
-}
-ol{
-    color: black;
+  color: #000000;
 }

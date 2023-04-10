@@ -30,14 +30,5 @@ wont tell you that.
 
 # *Sources*
 
----
-# Wikipedia
-Willow Project
+*Wiki: Willow Project
 https://en.wikipedia.org/wiki/Willow_project
----
-# Next Source
----nextSource
-
----
-# Next Source
-!nextSource!

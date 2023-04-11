@@ -17,5 +17,11 @@
   "contact": {
      "src": "contact.mdx",
      "title": "Contact",
-     "type": "page"}
+     "type": "page"},
+
+  "mission": {
+    "src": "mission.mdx",
+    "title": "Mission",
+    "type": "page"
+  }
 }

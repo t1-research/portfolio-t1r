@@ -13,9 +13,6 @@ export default {
             padding-top: 2rem;
             padding-bottom: 4rem;
           }
-        small {
-            color: black;
-        }
         }
       `}</style>
     </small>

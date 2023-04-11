@@ -24,7 +24,7 @@ body {
   font-variation-settings: 'wght' 450;
   font-variant: common-ligatures contextual;
   letter-spacing: -0.02em;
-  background-color: rgb(12, 12, 104);
+  background-color: #598392cb;
 }
 b,
 strong,
@@ -39,6 +39,15 @@ h1 {
 }
 h2 {
   font-variation-settings: 'wght' 750;
+}
+
+
+h1, h2, h3 {
+  color: #AEC3B0;
+}
+
+h4, h5, h6 {
+  color: #EFF6E0;;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
@@ -58,25 +67,25 @@ img.next-image {
 }
 
 .prose a {
-  color: #000000;
+  color: #124559
 }
 
 .nav-line .nav-link {
-  color: #000000;
+  color: #124559
 }
 
 p {
-    color: black;
+    color: #010E14
 }
 ul{
-    color: black;
+    color: #010E14
 }
 ol{
-    color: black;
+    color: #010E14
 }
 footer{
-    color: black;
+    color: #010E14
 }
 small{
-  color: black;
+  color: #010E14
 }

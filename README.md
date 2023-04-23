@@ -1,13 +1,13 @@
-This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
+---
+type: readme
+title: README
+date: 04-22-2023
+---
 
-- Automatically configured to handle Markdown/MDX
-- Generates an RSS feed based on your posts
-- A beautiful theme included out of the box
-- Easily categorize posts with tags
-- Fast, optimized web font loading
 
-## Configuration
+# **_T1 Research & Development | Website & Portfolio_**
 
-1. Update your name in `theme.config.js` or change the footer.
-1. Update the meta tags in `pages/_document.js`.
-1. Update the posts inside `pages/posts/*.md` with your own content.
+---
+
+&nbsp;&nbsp; T1 Research & Development here at t1r.vercel.app is my Student/Portfolio Website.  
+ I use this site as my personal portfolio but as sometheing i can put work into over time and show off my work. 
